@@ -8,3 +8,8 @@ pip install -U google-generativeai
 import google.generativeai as genai
 genai.__version__
 ~~~
+以上方法已弃用，目前需要以下包
+~~~
+pip install google-genai
+pip install openai
+~~~
