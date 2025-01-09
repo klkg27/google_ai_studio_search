@@ -1,0 +1,1184 @@
+{
+    "Aixin Liu": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "AI researcher focused on large language models and vision-language models. While there are other researchers with the same name, this profile focuses on Aixin Liu at DeepSeek AI.",
+        "Contribution": "Key contributor to the development of DeepSeek-V3 and DeepSeek-VL2 models. Developed innovative techniques like Multi-head Latent Attention (MLA) and the DeepSeekMoE architecture for efficient model training. Contributed to performance optimization in question answering, coding, and handling long context lengths.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Bing Xue": {
+        "Position": "Research Scientist",
+        "Background": "Ph.D. from Washington University focusing on deep learning in healthcare, with prior research experience at MIT and academic degrees from Nanyang Technological University and the National University of Singapore.",
+        "Contribution": "Contributor to the DeepSeek-V3 project, co-author of the 'DeepSeek-V3 Technical Report', research and engineering in large language model development, and research in healthcare applications of deep learning, multi-task learning, and video recommendation systems.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Bingxuan Wang": {
+        "Position": "Key Contributor at DeepSeek AI",
+        "Background": "Master's student at AIIC, Peking University, with a Bachelor's degree from Yuanpei College, Peking University. Extensive internship experience in AI and robotics, including at Sensetime and Microsoft Research Asia.",
+        "Contribution": "Key contributor to the development of large language models at DeepSeek AI, including DeepSeek-V3, DeepSeek-VL, and DeepSeek-VL2.  Also contributed to DeepSeek Coder. Research focused on deep learning, SLAM, event cameras, and neural rendering, with publications in leading AI conferences.",
+        "Category Tag": "Large Language Model Development (LLM Development), Vision-Language Models / Multimodal Research, Model Optimization and Architecture Design, Computer Vision"
+    },
+    "Bochao Wu": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Likely has a strong background in computer science, artificial intelligence, or a related field.",
+        "Contribution": "Co-author of the DeepSeek-V3 Technical Report, contributed to the development of the DeepSeekMoE architecture, pioneered an auxiliary-loss-free strategy for load balancing, and contributed to pre-training, supervised fine-tuning, and reinforcement learning stages of the DeepSeek-V3 model.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Chengda Lu": {
+        "Position": "Key Contributor at DeepSeek AI",
+        "Background": "Ph.D. in Computer Science and Technology from Tsinghua University, former Research Scientist at OpenAI.",
+        "Contribution": "Key contributor to the DeepSeek-V3 project, focusing on MoE language models, load balancing strategies, and multi-token prediction training. Developed fast training-free samplers for diffusion models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Chenggang Zhao": {
+        "Position": "Training/Inference Infra Engineer at DeepSeek AI",
+        "Background": "Experienced engineer with a background at Tsinghua University, and prior work at NVIDIA and SenseTime.",
+        "Contribution": "Key contributor to DeepSeek-V3 and DeepSeek Coder V2, with research focused on machine learning systems and cost-effective software-hardware co-design for deep learning. Also contributed to projects like Fire-Flyer AI-HPC.",
+        "Category Tag": "System Architecture and Performance Optimization"
+    },
+    "Chengqi Deng": {
+        "Position": "Member of @ZJULearning group and @DeepSeek-AI, Main Author of Faiss",
+        "Background": "Completed undergraduate and Master's degrees at Zhejiang University between 2016 and 2022. Has experience in similarity search and voice conversion. Proficient in C++ and Python.",
+        "Contribution": "Main author of Faiss library, contributor to DeepSeek-VL and DeepSeek-V3 projects, research in similarity search, voice conversion and vision-language models. Notable achievements on Github and Google Scholar with 1227 citations.",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Chenyu Zhang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Holds a Bachelor's degree in Mathematics from Fudan University and a Master's degree in Data Science from Columbia University. He has experience at academic institutions and Google as a software engineering intern.",
+        "Contribution": "Contributed to the DeepSeek-V3 model, specifically on the model's architecture (Multi-head Latent Attention and DeepSeekMoE), the development of the auxiliary-loss-free strategy for load balancing, and setting of a multi-token prediction training objective. His research focuses on the intersection of efficient optimization methods and machine learning frameworks and includes contributions to the following areas: SC1 Minimization, Graphon Mean Field Games, Heterogeneous Federated Reinforcement Learning, Mean Field Games, and Riemannian Adaptive Regularized Newton Methods.",
+        "Category Tag": "Model Optimization and Architecture Design"
+    },
+    "Chong Ruan": {
+        "Position": "Researcher in R&D at DeepSeek AI",
+        "Background": "Ph.D. in physics and materials science from the University of Texas, Austin, with postdoctoral work in chemistry and physics at the California Institute of Technology. Also holds an MS degree advised by Junfeng Hu. Prior research focused on molecular imaging techniques like ultrafast electron diffraction.",
+        "Contribution": "Key contributor to DeepSeek's Vision-Language models (DeepSeek-VL, DeepSeek-VL2), DeepSeek-MoE language model, DeepSeek-Coder-V2 model, and DeepSeek-Prover models.  Corresponding author on the DeepSeek-VL2 paper. His work aims to push the boundaries of multimodal AI and make AGI a reality.",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Damai Dai": {
+        "Position": "Deep Learning Researcher at DeepSeek AI",
+        "Background": "Ph.D. from Peking University with a background in deep learning and natural language processing, focusing on large language models and Mixture-of-Experts models.",
+        "Contribution": "Key contributor to the development of DeepSeek-V2, DeepSeek-V3, and DeepSeek-VL2 models. Made significant contributions to Mixture-of-Experts models, expert specialization, and LLM verification with Math-Shepherd.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Daya Guo": {
+        "Position": "AI Researcher at DeepSeek AI",
+        "Background": "Holds a Ph.D. in Computer Science and Technology from Sun Yat-sen University, completed as a joint program with Microsoft Research Asia.  Has a Bachelor's degree in Computer Science and Technology from the same university.  Research intern at Microsoft Research Asia mentored by Dr. Nan Duan and Dr. Duyu Tang.",
+        "Contribution": "Led significant projects such as DeepSeek-Coder, DeepSeekMath, DeepSeek-Prover, DeepSeek-Coder-V2, and DeepSeek-R1. Contributed to the development of DeepSeek-V2 and DeepSeek-V3. Research is centered on Natural Language Processing (NLP) and code intelligence, with a focus on Large Language Models and Code Intelligence.",
+        "Category Tag": "Code Intelligence and Mathematical Reasoning"
+    },
+    "Dejian Yang": {
+        "Position": "Key Contributor at DeepSeek AI",
+        "Background": "Ph.D. in Computer Science, with experience in Natural Language Processing (NLP), networking, mobile sensing, and the Internet of Things. Former Associate Professor at Colorado School of Mines.",
+        "Contribution": "Key contributor to the development of DeepSeek AI's large language models (DeepSeek-V2, DeepSeek-V3, DeepSeek-Coder, DeepSeek-Prover-V1.5), focusing on their architectural design, training, and evaluation. His work has led to models with enhanced performance and efficiency.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Deli Chen": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Master's degree from Peking University, previously a researcher at WeChat AI.",
+        "Contribution": "Contributed to the DeepSeek-V3 Technical Report and the development of the DeepSeekMoE architecture. Research focuses on large language models, alignment, and graph neural networks. Co-authored multiple research papers published at major AI conferences.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Erhang Li": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Strong foundation in computer science and artificial intelligence, inferred from contributions to DeepSeek AI.",
+        "Contribution": "Co-authored DeepSeek-V3 Technical Report and DeepSeek-V2 paper; involved in developing DeepSeek-Coder series; focused on advancing the capabilities and efficiency of large language models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Fangyun Lin": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Involved in the development of the DeepSeek-V3 large language model. The documents do not specify their educational or career background prior to their work at DeepSeek AI.",
+        "Contribution": "Contributed to the DeepSeek-V3 Technical Report, indicating involvement in the development of this frontier large language model.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Fucong Dai": {
+        "Position": "Researcher/Author",
+        "Background": "Part of the DeepSeek AI team, contributed to the DeepSeek-V3 Technical Report. Specific educational and career details are not provided.",
+        "Contribution": "A contributing author to the DeepSeek-V3 Technical Report, indicating his involvement in the research and development of the DeepSeek-V3 model, a frontier model comparable to Claude Sonnet 3.5. His work falls within the research fields of Large Language Models, Mixture-of-Experts models and AI.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Fuli Luo": {
+        "Position": "Principal Researcher at DeepSeek AI",
+        "Background": "Holds a master's degree from the Institute of Computational Linguistics at Peking University. Previously worked as a researcher at Alibaba's DAMO Academy.",
+        "Contribution": "Key developer of DeepSeek-V2 and contributor to DeepSeek-V3 and DeepSeek Coder. Focuses on multilingual capabilities, computational efficiency, and code intelligence.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Guangbo Hao": {
+        "Position": "Researcher, Professor",
+        "Background": "Holds multiple degrees in Mechanical Engineering, including two PhDs. Currently a Professor at University College Cork and a visiting Associate Professor at University College Dublin.",
+        "Contribution": "Co-author of DeepSeek-V2 and DeepSeek-V3 technical reports, contributing to research on large language models with efficient Mixture-of-Experts architecture. Also involved in mechanical engineering, robotics and compliant mechanisms.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Guanting Chen": {
+        "Position": "Key Contributor",
+        "Background": "Holds a Ph.D. in Computational and Mathematical Engineering from Stanford University (2022) and a B.S. in Mathematics from the University of Michigan at Ann Arbor (2016).  Prior to joining DeepSeek AI, he was an Assistant Professor at the Department of Statistics and Operations Research at the University of North Carolina at Chapel Hill. He has research internships at Baidu Vision Department and Alibaba DAMO Academy.",
+        "Contribution": "Key contributor to the DeepSeek LLM project, author of the DeepSeek LLM paper, contributed to the development of DeepSeek V2 and V3 models, worked on pre-training datasets, supervised fine-tuning and Direct Preference Optimization (DPO) for DeepSeek LLMs.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Guowei Li": {
+        "Position": "Researcher/Developer at DeepSeek AI",
+        "Background": "Strong background in computer science and artificial intelligence, evidenced by co-authorship on research papers.",
+        "Contribution": "Involved in the development of DeepSeek AI's large language models, specifically contributing to DeepSeek-V2 and DeepSeek-V3 models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "H. Zhang": {
+        "Position": "AI Researcher/Engineer",
+        "Background": "H. Zhang's educational background is not specified in the provided documents. He is a co-author in DeepSeek AI publications.",
+        "Contribution": "H. Zhang is a co-author on the DeepSeek-V3 and DeepSeek-V2 technical reports, contributing to the development of Mixture-of-Experts (MoE) language models known for their efficiency and performance. His work focuses on advancing AI through innovative techniques and efficient model training.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Han Bao": {
+        "Position": "Researcher",
+        "Background": "Researcher at DeepSeek AI, co-author of the DeepSeek-V3 Technical Report. No further information on educational background or prior career history provided.",
+        "Contribution": "Involved in the research, development, and implementation of DeepSeek-V3, a 671-billion-parameter Mixture-of-Experts large language model.  Likely contributed to DeepSeek-V2, and author of the BEiT model. Contributed to innovative techniques for load balancing, training objectives, and efficient large-scale training.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Hanwei Xu": {
+        "Position": "Key Contributor at DeepSeek AI",
+        "Background": "Holds Bachelor's and Master's degrees from Tsinghua University's Department of Automation, currently a PhD student in Computer Science at the University of Washington. Prior experience as a machine learning engineer at Recurrent AI.",
+        "Contribution": "Key contributor to DeepSeek AI, worked on large language model projects including DeepSeek-V2, DeepSeek-V3, and DeepSeek-Coder-V2. Co-author of DeepSeek-VL, an open-source Vision-Language model. Enhanced coding and mathematical reasoning capabilities of models, expanded programming language support, and extended context lengths. Focused on scaling language models with task scaling and zero-shot prompting. Also involved in scientific literature mining, and vision-language understanding.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Haocheng Wang": {
+        "Position": "Large Language Model Researcher/Developer",
+        "Background": "Likely has a background in computer science, mathematics, or a related field, with a focus on AI model development.",
+        "Contribution": "Key contributor to the development of DeepSeek-V3, including architecture design, training optimization, and large-scale pre-training.  Also contributed to DeepSeek-V2 and DeepSeek-Prover. Involved in large language model development, Mixture of Expert models, and optimization techniques.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Haowei Zhang": {
+        "Position": "Contributor at DeepSeek AI",
+        "Background": "Involved in the development of large language models at DeepSeek AI, with no specific educational background mentioned in the provided documents. Research background in vision-language and large language models. It is important to note that other Haowei Zhangs exist with a diverse backgrounds, such as in medicine, film, and acting.",
+        "Contribution": "Contributed to the development of DeepSeek-VL2 (vision-language model) and DeepSeek-V3 (large language model) with the team at DeepSeek AI. These models are recognized for their efficiency and performance, with a focus on multimodal understanding and advanced language processing.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Honghui Ding": {
+        "Position": "Contributor at DeepSeek AI",
+        "Background": "No specific educational background is provided, but is a contributor at DeepSeek AI. There is a Hongxu Ding with a Ph.D. from Columbia University and a B.S. from Tsinghua University, but it is not confirmed if it is the same person. No detailed career history is available prior to DeepSeek AI.",
+        "Contribution": "Contributed to the DeepSeek-V3 Technical Report and the Fire-Flyer AI-HPC project, which supports training large language models. These contributions indicate significant work in the development and infrastructure of DeepSeek's AI models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Huajian Xin": {
+        "Position": "PhD Student & Researcher at DeepSeek AI",
+        "Background": "Currently a PhD student at the University of Edinburgh, with an expected graduation in 2027, focusing on large language models for theorem proving. Completed undergraduate studies in Philosophy at Sun Yat-Sen University in 2023.",
+        "Contribution": "Significantly contributed to the development of DeepSeek's large language models, especially in the area of automated theorem proving. Key contributions include: development of DeepSeek-V2, DeepSeek-V3, DeepSeekProver, and DeepSeekMoE.  He has also contributed to the creation of large datasets of formal mathematical proofs.",
+        "Category Tag": "Code Intelligence and Mathematical Reasoning"
+    },
+    "Huazuo Gao": {
+        "Position": "Deep Learning Researcher",
+        "Background": "A deep learning enthusiast with a focus on large language models and multimodal models. Specific educational background is not detailed.",
+        "Contribution": "Significant contributions to the development of multiple DeepSeek AI models, including DeepSeek-VL2, DeepSeek-V2, DeepSeek-V3, DeepSeek-Coder-V2, and DeepSeekMoE. Developed a load-balancing strategy for Mixture-of-Experts models and contributed to projects focused on improving LLM accuracy in math. Author on multiple high-impact papers and projects.",
+        "Category Tag": "Large Language Model Development (LLM Development), Model Optimization and Architecture Design"
+    },
+    "Hui Qu": {
+        "Position": "Member of the DeepSeek AI team",
+        "Background": "Physician with a background in internal medicine, genetics, complex diseases, and precision medicine. Extensive experience in genetics research, including work on type 1 diabetes and neonatal diabetes at McGill University. Former Principal Scientist at the Center for Applied Genomics and Assistant Professor at the University of Texas Health Science Center.",
+        "Contribution": "Contributed to the development of DeepSeek-V2 and DeepSeek-V3 large language models. Developed an auxiliary-loss-free strategy for load balancing and investigated a Multi-Token Prediction (MTP) objective to enhance model performance. Designed an FP8 mixed-precision training framework for large-scale models. Also has contributed to genetics research, discovering type 1 diabetes loci, uncovering a key gene in endocrine pancreas development and developing a high-throughput method for studying genetic effects on gene translation. Has significant publications in areas of computer vision and medical image analysis.",
+        "Category Tag": "Large Language Model Development (LLM Development), Model Optimization and Architecture Design, Medical and Genomics Applications, Computer Vision"
+    },
+    "Jianzhong Guo": {
+        "Position": "Researcher/Engineer at DeepSeek AI",
+        "Background": "Expertise in artificial intelligence and large language models, with a focus on model architecture design, training optimization, and deployment strategies for large-scale AI systems. Specific educational background and career history are not detailed in the search results.",
+        "Contribution": "Key contributor to the development of DeepSeek AI's large language models, including DeepSeek-V2, DeepSeek-V3 and DeepSeek LLM. His work focuses on improving model performance, efficiency, and cost-effectiveness, including advancements in model training techniques like mixture-of-experts models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Jiashi Li": {
+        "Position": "AI Researcher/Engineer",
+        "Background": "Experienced in computer science with a focus on artificial intelligence, particularly in image/video generation and model optimization, with prior experience at ByteDance.",
+        "Contribution": "Key contributor to DeepSeek-V3 and DeepSeek-Coder-V2, with research spanning image/video generation, training acceleration, diffusion models, model optimization, and high-performance computing.",
+        "Category Tag": "Model Optimization and Architecture Design"
+    },
+    "Jiawei Wang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "PhD from the Multimedia Laboratory (MMLab) of The Chinese University of Hong Kong (CUHK) supervised by Prof. Dahua Lin, and worked closely with Prof. Chen Change Loy.  Also worked as a Research Scientist at Shanghai AI Laboratory and had an internship at Tencent AI Lab.",
+        "Contribution": "Key contributor to the DeepSeek-VL2 project, which focuses on Mixture-of-Experts Vision-Language Models for advanced multimodal understanding. Also an author on the DeepSeek-V3 technical report. Contributed to the DeepSeek-VL2 model, which has demonstrated superior capabilities in visual question answering, optical character recognition, and document/table/chart understanding.",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Jingchang Chen": {
+        "Position": "AI Researcher/Engineer at DeepSeek AI",
+        "Background": "Strong background in computer science, artificial intelligence, or a related field, with a focus on AI research and development. Specific educational background is not detailed but inferred from co-authorship on the DeepSeek-V3 Technical Report.",
+        "Contribution": "Key contributor to the DeepSeek-V3 model, a 671 billion parameter Mixture-of-Experts (MoE) language model. Involved in the design, development, and training of the model, including architecture design, training methodologies, and optimization strategies. Specifically contributed to DeepSeek-V3’s efficient inference and cost-effective training through Multi-head Latent Attention (MLA) and DeepSeekMoE architectures, development of an auxiliary-loss-free strategy for load balancing, and setting a multi-token prediction training objective.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Jingyang Yuan": {
+        "Position": "Researcher and Contributor at DeepSeek AI",
+        "Background": "Ph.D. student with a strong background in computer science, artificial intelligence, machine learning with research focus in compositional scene representation, graph neural networks, and unsupervised learning. Previously a Senior Engineer at NVIDIA.",
+        "Contribution": "Contributed to the development of DeepSeek AI's large language models, specifically the DeepSeek-V2 and DeepSeek-V3 models. Published researcher with notable works in compositional scene representation learning and graph neural networks. Also has research in AI for science.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Junjie Qiu": {
+        "Position": "Researcher/Contributor",
+        "Background": "Academic background in psychology or cognitive science with research experience at multiple institutions, including Lingnan Normal University and Wageningen University & Research.",
+        "Contribution": "Contributor to the DeepSeek-V3 Technical Report, with research focused on perception, cognition, social psychology, and emotion. Involved in the development of large language models.",
+        "Category Tag": "LLM Development"
+    },
+    "Junlong Li": {
+        "Position": "Researcher",
+        "Background": "Cited by 461 people for his work in Natural Language Processing, affiliated with Shanghai Jiao Tong University.",
+        "Contribution": "Key contributor to the DeepSeek-V3 project, including the development of Multi-head Latent Attention (MLA) and DeepSeekMoE architectures. Co-author of the DeepSeek-V3 Technical Report and other publications on large language models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Junxiao Song": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Holds a PhD in Electronic and Computer Engineering from the Hong Kong University of Science and Technology (HKUST). He has held postdoctoral positions at King Abdullah University of Science and Technology (KAUST), The Hong Kong Polytechnic University (PolyU), and worked as a Visiting Researcher at Queen Mary University of London (QMUL).",
+        "Contribution": "Involved in the development of several DeepSeek AI models, including DeepSeek-V2, DeepSeek-Coder-V2, and DeepSeek-Prover-V1.5.  His work includes contributions to sequence design optimization, sparse generalized eigenvalue problem solutions, and reinforcement learning agents. He has also contributed to DeepSeek-V3 technical report. Additionally, he has published numerous research papers in top-tier conferences and journals, receiving over 1500 citations on Google Scholar.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Kai Dong": {
+        "Position": "Researcher",
+        "Background": "Strong background in computer science, AI, or a related field.",
+        "Contribution": "Key contributions to the development of DeepSeek-VL, DeepSeek-Coder, DeepSeek-V3, and DeepSeek-VL2. Focused on large language models (LLMs) and vision-language models (VLMs).",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Kai Hu": {
+        "Position": "Contributor at DeepSeek AI",
+        "Background": "Ph.D. from the Max-Planck Institute for Informatics focusing on neural information retrieval. Prior experience as a Senior Software Engineer at Google AI, with previous roles at Amazon Alexa and SAP.",
+        "Contribution": "Key contributor to the DeepSeek-VL2 and DeepSeek-V3 models, which are large Mixture-of-Experts Vision-Language Models. Also involved in model architecture design, training, and evaluation, and his research focuses on deep learning models for information retrieval and question answering as well as multimodal models.",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Kaige Gao": {
+        "Position": "PhD candidate and researcher at DeepSeek AI",
+        "Background": "PhD candidate in Design & Innovation at Case Western Reserve University, with a research background in AI and innovation, including analysis of open-source AI projects and the diffusion of AI innovations.",
+        "Contribution": "Co-authored research papers on DeepSeek-V2 and DeepSeek-V3, focusing on the development and research of large language models, also contributed to research on cross-boundary AI innovation.",
+        "Category Tag": "LLM Development"
+    },
+    "Kang Guan": {
+        "Position": "Research Scientist",
+        "Background": "Ph.D. from the University of Southern California, with M.S. and B.Eng from Tsinghua University. Previously a Research Scientist at Meta, working on projects like Rosetta OCR, Terragraph, and Map With AI.",
+        "Contribution": "Key contributor to DeepSeek-V3 and DeepSeek-VL2, which are large language and vision-language models, with a focus on efficiency and performance. His work includes projects related to OCR, 3D object detection, semantic segmentation, and road network extraction. Also contributed to the Fire-Flyer AI-HPC project.",
+        "Category Tag": "Model Optimization and Architecture Design, Vision-Language Models / Multimodal Research, Large Language Model Development (LLM Development), Computer Vision"
+    },
+    "Kexin Huang": {
+        "Position": "Researcher",
+        "Background": "Kexin Huang has a strong background in both Mathematics and Computer Science, holding degrees from New York University and Harvard University. His research focuses on applying AI to biomedical and therapeutic discoveries. He has held research positions at several notable institutions such as IQVIA and The Rockefeller University.",
+        "Contribution": "Kexin Huang is listed as an author on the DeepSeek-V2 and DeepSeek-V3 technical reports, indicating his involvement in the development of their language models. His research interests center around applying AI to biomedical and therapeutic discoveries, focusing on modeling complex, multi-modal biological data, and ensuring the reliability of these discoveries. He has also made contributions to drug interaction prediction, clinical word representation, and AI model development for relational databases. He is also a founder of UNMUTED, an organization aimed to bring social justice for the LGBTQ+ group in China.",
+        "Category Tag": "Medical and Genomics Applications"
+    },
+    "Kuai Yu": {
+        "Position": "Likely an Engineer or Researcher at DeepSeek AI",
+        "Background": "Has a background in engineering and possibly computer science. Specific educational details at DeepSeek AI are not provided, but is involved in the development of large language models.",
+        "Contribution": "Co-authored the DeepSeek-V3 Technical Report; involved in the development of the DeepSeekMoE architecture and the Multi-head Latent Attention (MLA) mechanism; worked on an auxiliary-loss-free strategy for load balancing and multi-token prediction training; contributed to the pre-training of DeepSeek-V3 using 14.8 trillion tokens.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Lean Wang": {
+        "Position": "Research Intern at DeepSeek AI, Ph.D. student at Peking University",
+        "Background": "Second-year Ph.D. student at Peking University with a Bachelor's degree in Intelligence Science and Technology, focusing on Computational Linguistics.",
+        "Contribution": "Contributed to the development of DeepSeek-V2 and DeepSeek-VL, focusing on improved Mixture-of-Experts (MoE) models. Published research papers on LLMs, including work on in-context learning, watermarking, and multimodal models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Lecong Zhang": {
+        "Position": "AI Researcher",
+        "Background": "Likely has a background in computer science, mathematics, or a related field, though specifics are not mentioned. He is part of the DeepSeek AI team.",
+        "Contribution": "Contributed to the development of DeepSeek-V3 and DeepSeek V2, focusing on efficient training and implementation of large language models, including Mixture-of-Experts models. Author of 'DeepSeek-V3 Technical Report', 'DeepSeek LLM: Scaling Open-Source Language Models with Longtermism', and 'DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence'.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Liang Zhao": {
+        "Position": "Associate Professor at Emory University, Contributor at DeepSeek AI",
+        "Background": "Holds a Ph.D. in Computer Science from Virginia Tech, with a research background in data mining, machine learning, and artificial intelligence. He has extensive experience in academia, previously holding positions at George Mason University.",
+        "Contribution": "Contributed to the DeepSeek-VL2 and DeepSeek-V3 projects, focusing on large Mixture-of-Experts Vision-Language Models, with expertise in deep learning on graphs, spatiotemporal and network data mining, and multi-modal machine learning.",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Litong Wang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "No specific details about educational background or previous career experiences are available, but is associated with DeepSeek AI.",
+        "Contribution": "Co-authored the DeepSeek-V3 Technical Report and DeepSeek-VL2, contributing to the development of large language models and vision language models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Liyue Zhang": {
+        "Position": "Researcher",
+        "Background": "Strong academic background in computer science, artificial intelligence, or a related field.",
+        "Contribution": "Significant contributions to the development of DeepSeek AI's large language models, including DeepSeek-V3, DeepSeek-Coder-V2, and DeepSeek-Prover-V1.5. Research focus on code generation, mathematical reasoning, and efficient training of large language models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Mingchuan Zhang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Strong foundation in computer science and artificial intelligence.",
+        "Contribution": "Key contributor to the development of DeepSeek's large language models, including DeepSeek-V2, DeepSeek-V3, and DeepSeekMath. Involved in innovative architectures such as Multi-head Latent Attention (MLA) and DeepSeekMoE, as well as auxiliary-loss-free strategy for load balancing.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Minghua Zhang": {
+        "Position": "AI Researcher/Developer",
+        "Background": "Background in computer science, specifically in areas related to AI and machine learning.",
+        "Contribution": "Contributed to the development of DeepSeek-V3 large language model, including architecture, training, and evaluation.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Minghui Tang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "No specific details about Minghui Tang's educational background are available, and there are multiple people named Minghui Tang with various educational backgrounds, however it is not confirmed if they are the same person.",
+        "Contribution": "Involved in the development of the DeepSeek-V3 model, DeepSeek-V2, and DeepSeek LLM.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Panpan Huang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Physics background with research experience in optical physics, AMO physics, and X-ray imaging. Transitioned to AI research, focusing on large language models.",
+        "Contribution": "Co-authored DeepSeek-V2 and DeepSeek-V3 language models; contributed to the development of DeepSeekMoE, an advancement in Mixture-of-Experts language models; published several articles in physics and AI.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Peiyi Wang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Educational background includes affiliations with Peking University and other institutions. Research contributions suggest a focus on large language models and related technologies.",
+        "Contribution": "Significantly contributed to the development of DeepSeek's language models, including DeepSeek-V2, DeepSeek-Coder-V2, and DeepSeekMath. His work includes pre-training models on large datasets, improving data quality, and enhancing model capabilities. Also contributed to DeepSeek-V3 model development.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Qiancheng Wang": {
+        "Position": "Contributing Author at DeepSeek AI",
+        "Background": "Holds a Ph.D. in Land Economy from the University of Cambridge, specializing in human-environment interaction and sustainable urban development. He also has a background in architecture, urban studies, building engineering, and applied mathematics.",
+        "Contribution": "Contributed to the development of the DeepSeek-V3 large language model, focusing on model architecture, training strategies, and performance optimization. Also a co-author of DeepSeek-V3 and contributed to DeepSeek-V2.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Qihao Zhu": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Ph.D. in Computer Science from Peking University with a focus on program generation, program understanding, pre-trained large models, and natural language processing. Also holds a BE in Media and Communication Design from Tongji University.",
+        "Contribution": "Development of advanced large models for code generation and logical reasoning, including contributions to DeepSeek-Coder and DeepSeek-Math. Significant work in neural program repair, code generation, and code retrieval with publications in top-tier conferences. Research also includes human-centered design by studying LLM-based empathetic mental inference and the advancement of theorem proving in LLMs.",
+        "Category Tag": "Code Intelligence and Mathematical Reasoning"
+    },
+    "Qinyu Chen": {
+        "Position": "Deep Learning Engineer/AGI Research at DeepSeek AI",
+        "Background": "Master's student at Peking University's School of Computer Science, with a Bachelor's degree in Computer Science from the same institution. Experience includes internships at Microsoft (Bing Ads) and ByteDance (Douyin Search).",
+        "Contribution": "Contributes to building frontier AI application frameworks, researches large language models, and is an author of the DeepSeek-V3 Technical Report. His work also includes improving performance in areas such as search results, user behavior modeling, and combining LLMs with retrieval systems.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Qiushi Du": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Technical background in machine learning and artificial intelligence, evidenced by research publications, specific educational details are not provided.",
+        "Contribution": "Co-authored multiple research papers on DeepSeek AI's core technologies, including large language models (DeepSeek-V3), code intelligence (DeepSeek-Coder-V2), theorem proving (DeepSeek-Prover-V1.5), and AI hardware-software co-design (Fire-Flyer AI-HPC). Involved in developing and enhancing DeepSeek’s AI technologies.",
+        "Category Tag": "Large Language Model Development (LLM Development), Code Intelligence and Mathematical Reasoning, Model Optimization and Architecture Design, System Architecture and Performance Optimization"
+    },
+    "Ruiqi Ge": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Ruiqi Ge has a background in life sciences, with research experience in molecular biology and RNA modification. He has transitioned to the field of Large Language Models (LLMs).",
+        "Contribution": "Co-author of DeepSeek-V2 and DeepSeek-V3 technical reports, focusing on the development of efficient and high-performing large language models. Also has publications on RNA modifications and their role in gene expression.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Ruisong Zhang": {
+        "Position": "Master's Student & AI Researcher",
+        "Background": "Master's student at the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), and the University of Chinese Academy of Sciences (UCAS).  He holds a Bachelor's degree in information security from Xidian University.",
+        "Contribution": "Author and contributor to the DeepSeek-V3 large language model. Also has published research papers in the field of image processing, including \"Pixel-wise Dense Detector for Image Inpainting\" and \"Distinguishing Computer-Generated Images from Natural Images Using Channel and Pixel Correlation\". He has 8 publications and has been cited 179 times.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Ruizhe Pan": {
+        "Position": "AI Researcher/Engineer",
+        "Background": "The provided information does not explicitly state Ruizhe Pan's educational background or career history prior to his involvement with DeepSeek AI. There is a potential match with a Ruizhe Li holding a Ph.D. from the University of Sheffield, and a BEng from Shanghai University, but this is not confirmed. ",
+        "Contribution": "Co-authored the DeepSeek-V2 and DeepSeek-V3 language models. These models are known for being strong, efficient Mixture-of-Experts (MoE) models, with DeepSeek-V3 achieving performance comparable to leading closed-source models. He is involved in the development of large language models and the optimization of their architecture and training.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Runji Wang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Strong background in computer science and engineering, with research publications in the field.",
+        "Contribution": "Co-author of DeepSeek-V2 and DeepSeek-V3 models, focusing on efficient large language model development, particularly Mixture-of-Experts models. Contributed to the open-source code for DeepSeek models and has publications in system optimization.",
+        "Category Tag": "Model Optimization and Architecture Design"
+    },
+    "Runxin Xu": {
+        "Position": "Member of the DeepSeek AI team",
+        "Background": "Master's degree from the Institute of Computational Linguistics, Peking University; Bachelor's degree from Shanghai Jiao Tong University. Prior experience includes quant research, search engine development, and NLP research at various companies.",
+        "Contribution": "Contributed to the development of DeepSeek-V2, DeepSeek-V3, and DeepSeek-Coder-V2 models. Research focuses on Large Language Modeling, document-level and few-shot information extraction, and pre-trained language models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Ruoyu Zhang": {
+        "Position": "Author of DeepSeek-V3 Technical Report",
+        "Background": "No specific educational background information available. Contributed to the DeepSeek-V3 project at DeepSeek AI.",
+        "Contribution": "Key contributor to the DeepSeek-V3 model, which is a large language model featuring Mixture-of-Experts architecture, Multi-head Latent Attention, and advanced training strategies. This model has 671 billion parameters, with 37 billion activated per token, and was trained on 14.8 trillion tokens. The model's training process was stable and achieved performance comparable to leading closed-source models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Shanghao Lu": {
+        "Position": "AI Researcher/Developer",
+        "Background": "No specific educational background or prior professional roles are mentioned in the provided information.",
+        "Contribution": "Co-author of the DeepSeek-V3 Technical Report, contributing to the development of the DeepSeek V3 large language model, which is noted for its performance, cost-effectiveness, and efficient training.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Shangyan Zhou": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Research background in artificial intelligence and machine learning, with a specific focus on deep learning.",
+        "Contribution": "Co-authored the DeepSeek-V3 technical report, and the 'Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning' paper, focusing on software and hardware co-design for deep learning.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Shanhuang Chen": {
+        "Position": "Researcher or Engineer focusing on large language models",
+        "Background": "Strong academic foundation in computer science or a related field, evidenced by involvement in multiple research papers.",
+        "Contribution": "Significantly contributed to the development of DeepSeek AI's large language models, including DeepSeek-V2 and DeepSeek-V3. Co-authored the DeepSeek-V3 Technical Report and 'DeepSeek LLM: Scaling Open-Source Language Models with Longtermism'. Also contributed to the development of datasets for pre-training language models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Shengfeng Ye": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "AI researcher with a focus on large language models.",
+        "Contribution": "Key contributor to the development of DeepSeek's large language models, including DeepSeek-V2 and DeepSeek-V3. Also involved in research related to optimizing hardware and software for deep learning, contributing to the Fire-Flyer AI-HPC project.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Shirong Ma": {
+        "Position": "Team Member at DeepSeek AI",
+        "Background": "Master's student at Tsinghua University with a background in Natural Language Processing and Artificial Intelligence.",
+        "Contribution": "Contributed to the development of large language models such as DeepSeek-V2 and DeepSeek-V3, and DeepSeek-Coder-V2. His research focuses on Chinese language processing, grammatical error correction, and leveraging dictionary knowledge to enhance language models. He has also explored multi-modal information for language model improvement.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Shiyu Wang": {
+        "Position": "Applied Scientist",
+        "Background": "Ph.D. in Biostatistics from Emory University with a focus on machine learning and complex structured data, also holding degrees from Yale University and Fudan University.",
+        "Contribution": "Involved in the development of the DeepSeek-V3 model, with research contributions in areas such as low-resource text-to-data generation, efficient LLMs, deep generative models, graph neural networks, and applications of LLMs in disease-gene association discovery. Also contributed to publications on controllable data generation and efficient LLMs.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Shuiping Yu": {
+        "Position": "Researcher",
+        "Background": "Academic background with affiliations at Tsinghua University and Nanchang Hangkong University, with research experience in areas such as intelligent transportation systems, environmental technology, and materials science.",
+        "Contribution": "Co-authored the DeepSeek-V3 technical report, contributing to the development of the DeepSeek-V3 large language model. Research also includes big data analysis, and environmental science.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Shunfeng Zhou": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Expertise in high-performance computing and artificial intelligence, with a focus on efficient hardware and software design for AI and machine learning.",
+        "Contribution": "Co-authored the DeepSeek-V3 Technical Report and DeepSeek LLM paper, presented 'Fire-Flyer AI-HPC' at SC24, which is a cost-effective software-hardware co-design for deep learning using 10,000 GPUs. His work focuses on scaling open-source language models and optimizing AI infrastructure.",
+        "Category Tag": "System Architecture and Performance Optimization"
+    },
+    "Shuting Pan": {
+        "Position": "AI Researcher",
+        "Background": "Involved in AI research with a background in computer science, mathematics, or a related field.",
+        "Contribution": "Co-authored the DeepSeek-V3 Technical Report, contributing to the development of the DeepSeek-V3 large language model.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Tao Yun": {
+        "Position": "AI Researcher/Engineer",
+        "Background": "While specific educational and prior career details are not provided, Tao Yun is an author of the DeepSeek-V3 Technical Report, indicating a background in AI research and development.",
+        "Contribution": "Contributed to the development of the DeepSeek-V3 large language model, focusing on innovative auxiliary-loss-free load balancing strategies and multi-token prediction training objectives. He was also involved in the implementation of Multi-head Latent Attention (MLA) and DeepSeekMoE architectures.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Tian Pei": {
+        "Position": "Legal Representative and Key Researcher at DeepSeek AI",
+        "Background": "Strong background in computer science and artificial intelligence. Previously worked at ByteDance. Associated with academia.",
+        "Contribution": "Instrumental in developing DeepSeek's large language models, including DeepSeek-V2 and DeepSeek-V3. Pioneered an auxiliary-loss-free strategy for load balancing and contributed to the implementation of a Multi-Token Prediction objective. Co-designed a framework for FP8 mixed-precision training. Focused on improving the efficiency and effectiveness of large language models. Author of multiple research papers.",
+        "Category Tag": "Large Language Model Development (LLM Development), Model Optimization and Architecture Design"
+    },
+    "Wangding Zeng": {
+        "Position": "MS Student and AI Researcher",
+        "Background": "MS student at Beijing University of Posts and Telecommunications (BUPT) from 2021-2024, and undergraduate from 2017-2021.  Joined DeepSeek AI in October 2022.",
+        "Contribution": "Significant contributions to DeepSeek AI's large language models, including DeepSeek-V2 and DeepSeekMoE. He also contributed to DeepSeek-Coder-V2 and its technical report.  He focuses on the development and optimization of efficient and economical models. His research also covers mixture-of-experts models and model compression techniques. Co-authored several research papers and has a Google Scholar profile with 307 citations, an h-index of 5, and i10-index of 5.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Wanjia Zhao": {
+        "Position": "AGI Intern at DeepSeek AI, Ph.D. Student at Stanford University",
+        "Background": "Holds a B.S. in Mathematics and Applied Mathematics from Zhejiang University and is currently a Ph.D. student in Computer Science at Stanford University. He has prior research experience at Microsoft Research Asia and UCLA's Scalable Analytics Institute.",
+        "Contribution": "Contributed to the DeepSeek-Prover-V1.5 project, focusing on reinforcement learning and Monte-Carlo tree search for mathematical reasoning in Large Language Models. His research also includes work in physics-informed machine learning, dynamical system modeling, and multi-agent systems.",
+        "Category Tag": "Code Intelligence and Mathematical Reasoning"
+    },
+    "Wen Liu": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Holds a Ph.D. from ShanghaiTech University and a bachelor's degree from Northwest Polytechnical University Xi'an. Prior to joining DeepSeek AI, worked as a researcher at Tencent PCG.",
+        "Contribution": "Key contributor to DeepSeek's Vision-Language models, including DeepSeek-VL and DeepSeek-VL2, project lead for DeepSeek-VL2, and contributed to DeepSeek-V3 Technical Report.  His research includes large multi-modality models, neural 3D representation and generation, image/video anomaly detection, and image/video generation and synthesis. Co-authored several research papers in the field of AI, with a focus on multimodal understanding and generation, and has a Google Scholar profile with significant citations.",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Wenfeng Liang": {
+        "Position": "CEO and Founder of DeepSeek AI",
+        "Background": "Chinese entrepreneur with a Ph.D. in Mechatronic Engineering, and a background in computer science, previously founded a quantitative hedge fund High-Flyer.",
+        "Contribution": "Spearheaded DeepSeek's focus on foundational AI research, led the development of large language models, including the R1 model, and architectural improvements like multi-head latent attention (MLA) and sparse mixture-of-experts (DeepseekMoE). Prioritized long-term technical advancement and open-source innovation.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Wenjun Gao": {
+        "Position": "AI Researcher",
+        "Background": "Likely holds a graduate degree in Computer Science, Artificial Intelligence, or a related discipline. Strong background in AI research, particularly in large language models and code intelligence.",
+        "Contribution": "Key contributions include the development of DeepSeek-V3, DeepSeek-Prover-V1.5, and DeepSeek-Coder-V2, focusing on model architecture, training, and optimization. Also involved in cost-effective software-hardware co-design for deep learning. Has also done research in natural language processing and text categorization.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Wenqin Yu": {
+        "Position": "Contributing Author at DeepSeek AI",
+        "Background": "Specific educational background not mentioned, but works at DeepSeek AI.",
+        "Contribution": "Co-author of the DeepSeek-V3 Technical Report, which details a high-performing large language model. Contributed to research on efficient model architectures and cost-effective training methods.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Wentao Zhang": {
+        "Position": "Assistant Professor and Ph.D. advisor at the Center of Machine Learning Research at Peking University, Researcher at DeepSeek AI",
+        "Background": "Holds a Ph.D. in Computer Science from Peking University, a Master's degree in Artificial Intelligence from the University of New South Wales, and a Bachelor's degree in Electronic Information Engineering from Zhejiang University City College. He has prior research experience at Mila, Apple, and Tencent.",
+        "Contribution": "Key contributor to DeepSeek-Coder series and DeepSeek-V3 large language model; research focused on data-centric machine learning, machine learning systems, AI for Science, large language models, and generative AI; published over 50 CCF-A papers; contributor to system projects like Angel, SGL, MindWare, and OpenBox.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Xiao Bi": {
+        "Position": "Researcher",
+        "Background": "Research background in Human-Computer Interaction, former research intern at Google, and former associate professor with tenure.",
+        "Contribution": "Contributions in Human-Computer Interaction, particularly in input modeling and AI-powered input technologies, co-author of the paper \"DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence\" and part of the team that developed DeepSeek-V3.",
+        "Category Tag": "Human-Computer Interaction / User Experience"
+    },
+    "Xiaodong Liu": {
+        "Position": "Principal Researcher in the Deep Learning Group at Microsoft Research and AI",
+        "Background": "PhD student at the Nara Institute of Science and Technology, Japan from 2011-2015. Research interests include large-scale language modeling, multi-task learning, model compression, and robust training.",
+        "Contribution": "Involved in the development of DeepSeek-V3 model, contributed to DeBERTa models, published multiple research papers in Deep Learning including work in Natural Language Processing.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Xiaohan Wang": {
+        "Position": "Postdoc at Stanford University & Contributor at DeepSeek AI",
+        "Background": "Ph.D. from the University of Technology Sydney, B.E. from the University of Science and Technology of China.  Experience through collaborations with researchers at Baidu Research and Facebook AI Research during Ph.D. studies.",
+        "Contribution": "Key contributor to DeepSeek-V3, implementing Multi-head Latent Attention (MLA) and DeepSeekMoE architectures, contributing to auxiliary-loss-free strategy for load balancing, and the multi-token prediction training objective. Research in Video Understanding, Multimodal Learning, and AI for Healthcare. Work also includes visual token pruning for Vision-Language Model acceleration.",
+        "Category Tag": "Large Language Model Development (LLM Development), Vision-Language Models / Multimodal Research, Computer Vision"
+    },
+    "Xiaokang Chen": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Ph.D. in Computer Vision and Multi-Modal Learning from Peking University, with extensive internship experience at various AI research labs.",
+        "Contribution": "Key contributor to the DeepSeek-VL2 series of large Vision-Language Models and the Janus model, with research focused on visual pretraining, scene understanding, and multi-modal large language models.",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Xiaokang Zhang": {
+        "Position": "AGI Researcher at DeepSeek AI",
+        "Background": "Strong background in computer science and artificial intelligence, with a Bachelor of Science degree from Peking University. He has prior research intern experience at Microsoft Research Asia, Shanghai Artificial Intelligence Laboratory, and Baidu's Artificial Intelligence Group.",
+        "Contribution": "Co-authored DeepSeek-V3 Technical Report and DeepSeek-VL2 (including DeepSeek-VL2-Tiny, DeepSeek-VL2-Small and DeepSeek-VL2). Contributed to research papers on real-time semantic scene completion, RGB-D semantic segmentation, entity linking, and object detection. He has also led projects such as \"Interactive Segment Anything NeRF with Feature Imitation\". He has also published in Entity Linking, Question Answering, Remote Sensing, and Agriculture.",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Xiaotao Nie": {
+        "Position": "Contributor at DeepSeek AI",
+        "Background": "No specific educational background is provided. However, there's a possible association with a Xiaonan Nie who holds a Ph.D. in Computer Science from Peking University. A personal website shows interests in coding and design.",
+        "Contribution": "Contributor to the DeepSeek-V3 model, as listed in the 'DeepSeek-V3 Technical Report'. Also has publications in the field of language models and AI.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Xin Cheng": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Associated with the DeepSeek AI research team, focusing on advancing artificial general intelligence (AGI). While specific details about educational background are not provided, he is a co-author of multiple research papers.",
+        "Contribution": "Contributed to the development of DeepSeek-V3, a large Mixture-of-Experts (MoE) language model, and DeepSeek-VL2, an advanced series of large MoE Vision-Language Models. His work involves using Multi-head Latent Attention (MLA) and DeepSeekMoE architectures. He has also published multiple research papers in the field of NLP, with a focus on text generation, retrieval-augmented generation, and summarization.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Xin Liu": {
+        "Position": "Research Scientist or Engineer",
+        "Background": "No specific educational background information available, but is a contributor to DeepSeek AI's projects.",
+        "Contribution": "Contributed to the DeepSeek-V3 project, DeepSeek-VL2 models, and 'Fire-Flyer AI-HPC'. Focuses on large language models, vision-language models, and efficient deep learning systems.",
+        "Category Tag": "Large Language Model Development (LLM Development), Vision-Language Models / Multimodal Research, Model Optimization and Architecture Design"
+    },
+    "Xin Xie": {
+        "Position": "Researcher",
+        "Background": "Strong background in computer science and/or related fields, with a focus on AI research.",
+        "Contribution": "Developed DeepSeek-VL2 (Mixture-of-Experts vision-language models), DeepSeek-Coder-V2 (enhanced coding and mathematical reasoning), and DeepSeek-V2 (a mixture of experts language model).",
+        "Category Tag": "Large Language Model Development (LLM Development), Vision-Language Models / Multimodal Research, Code Intelligence and Mathematical Reasoning"
+    },
+    "Xingchao Liu": {
+        "Position": "Researcher in the multimodal group at DeepSeek AI",
+        "Background": "Ph.D. from the University of Texas at Austin, advised by Professor Qiang Liu. He also worked with Professor Hao Su at UCSD during his undergraduate studies at Beihang University.",
+        "Contribution": "Developed the Janus series of models (Janus and JanusFlow) for unified multimodal understanding and generation. Contributed to DeepSeek-VL2, a large Mixture-of-Experts Vision-Language Model and DeepSeek-V3. Research focuses on probabilistic inference and generative modeling for multimodal intelligence, with multiple publications and significant citations in the field of machine learning.",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Xingkai Yu": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Xingkai Yu has a background in machine learning and AI model development. It is possible he has a Bachelor's degree in Applied Physics and a Master's degree in Optical Engineering from the Beijing Institute of Technology, or a PhD from North China Electric Power University, Beijing with a focus on system description, although this information is not confirmed.",
+        "Contribution": "Xingkai Yu has made significant contributions to the development of large language and vision-language models, including DeepSeek-VL2, DeepSeekMoE, and DeepSeek-V3. His work focuses on improving multimodal understanding through advanced models, with a particular emphasis on Mixture-of-Experts (MoE) architectures and efficient model design. He has worked on models that are capable of visual question answering, optical character recognition, and document understanding.",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Xinyu Yang": {
+        "Position": "Researcher",
+        "Background": "Actively involved in large language model development, with a research focus on efficient training methodologies and model optimization techniques.",
+        "Contribution": "Contributed to the development of DeepSeek-V2 and DeepSeek-V3 large language models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Xinyuan Li": {
+        "Position": "Researcher/Engineer at DeepSeek AI",
+        "Background": "No specific educational background information provided.  Currently works at DeepSeek AI.",
+        "Contribution": "Co-author on 'DeepSeek-V3 Technical Report' and 'DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model'. Also an author of 'GeoHi-GNN: Geometry-aware hierarchical graph representation learning for normal estimation.' Contributed to the development and research of DeepSeek AI's language models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Xuecheng Su": {
+        "Position": "Contributor at DeepSeek AI",
+        "Background": "Affiliated with Qingdao University of Science and Technology. Involved in research and development at DeepSeek AI.",
+        "Contribution": "Contributed to the development of the DeepSeek-V3 model.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Xuheng Lin": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Likely has a background in computer science or systems engineering, possibly with a focus on machine learning or AI.  One Xuheng Lin has a Ph.D. in Bioinformatics and has done postdoctoral training in Bioengineering and Bioinformatics. Has publications related to blockchain, social credit systems, and network security.",
+        "Contribution": "Key contributor to the DeepSeek-V3 language model, with a focus on model architecture design, training methodologies, and performance optimization. His work also includes contributions in blockchain, social credit systems, network security and Transient Stability of Transmission and Distribution Grids.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Y.K. Li": {
+        "Position": "Researcher",
+        "Background": "Involved in research related to large language models at DeepSeek AI with a background in computer science, artificial intelligence, or a related field.",
+        "Contribution": "Contributed to the development of the DeepSeek-Coder series of open-source code models, DeepSeek-V3 671B parameter Mixture-of-Experts language model, DeepSeekMath which focuses on mathematical reasoning, and research on DeepSeekMoE architecture.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Y.Q. Wang": {
+        "Position": "Contributor",
+        "Background": "Holds a Ph.D. and M.Sc. from the University of Connecticut, a M.Sc. from the Chinese Academy of Science, and a B.Sc. from Northeast Normal University, China, with a background in natural sciences, remote sensing, and quantitative modeling.",
+        "Contribution": "Contributed to the DeepSeek-V3 (MoE language model) and DeepSeek-VL2 (visual language model) projects. Editor-in-Chief of 'All Earth' journal. Research focuses on terrestrial remote sensing, quantitative modeling, and natural resources analysis.",
+        "Category Tag": "Large Language Model Development (LLM Development), Vision-Language Models / Multimodal Research"
+    },
+    "Y.X. Wei": {
+        "Position": "Contributor at DeepSeek AI",
+        "Background": "No specific educational or prior career details provided in the search results. Involved with DeepSeek AI since at least 2024.",
+        "Contribution": "Key contributor to the development of DeepSeek-V2 and DeepSeek-V3 language models, focusing on Mixture-of-Experts architectures, efficient training and inference techniques, and improving model performance.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yang Zhang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Holds a Ph.D. in Computer Science and Engineering from the University of Notre Dame, a master's degree from the Technical University of Munich, and a bachelor's degree from RWTH Aachen University. Has prior experience as a postdoctoral researcher and teaching assistant professor at UIUC, a research intern at Microsoft Research Asia, and a research associate at Argonne National Laboratory.",
+        "Contribution": "Contributed to the development of DeepSeek-V3, DeepSeek-Coder series, and DeepSeek-VL models. His research focuses on pre-training and scaling of foundation models, human-centered AI, and explainable AI. He is also involved in open-source model development at DeepSeek AI.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yanhong Xu": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Ph.D. in lattice-based cryptography from Nanyang Technological University (NTU), with postdoctoral experience at the University of Calgary. Previously a research assistant professor at Shanghai Jiao Tong University (SJTU).",
+        "Contribution": "Contributed to the development of DeepSeek AI's large language models, specifically as one of the authors of 'DeepSeek-V2' and the 'DeepSeek-V3 Technical Report.'  Her research expertise lies in lattice-based and code-based cryptography, zero-knowledge protocols, and their application to privacy-preserving protocols.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yao Li": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Involved in the development of large language models at DeepSeek AI. Specific education details are not provided.",
+        "Contribution": "Contributed to the development of DeepSeek-V2, DeepSeek-V3, DeepSeek-VL, and DeepSeek-VL2 models, focusing on efficient and cost-effective model architectures and improved performance through techniques like Mixture-of-Experts.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yao Zhao": {
+        "Position": "Member of the DeepSeek AI team",
+        "Background": "Yao Zhao has a strong academic foundation with degrees in Mathematics and Electrical Engineering and is currently a Ph.D. student in Computer Science at the University of Arizona. Prior to DeepSeek AI, he was an Applied Scientist II at Microsoft AI & Research.",
+        "Contribution": "Yao Zhao has contributed to the development of large language and vision-language models, including \"DeepSeek-V3\",  \"DeepSeek-VL2\" and \"DeepSeek-V2\". His research interests include AI, Computer vision, Machine learning, and the multi-armed bandit problem. He has also published on topics like image/video coding, digital watermarking, and digital forensics.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yaofeng Sun": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Strong foundation in computer science, artificial intelligence, and related fields. Research background includes multi-agent behavior prediction and vision-language models.",
+        "Contribution": "Key contributor to DeepSeek-VL and DeepSeek-VL2, open-source vision-language models. Research focuses on developing models for real-world understanding, multimodal processing, and efficient architectures. Also contributed to DeepSeek LLM. Earlier research focused on multi-agent behavior prediction in autonomous driving.",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Yaohui Wang": {
+        "Position": "Research Scientist at DeepSeek AI and associate researcher at Inria",
+        "Background": "Ph.D. from Inria, Master's from Université Paris-Saclay, experience as a quantitative analyst, started in research as a laboratory technician.",
+        "Contribution": "Significantly contributed to DeepSeek's language models (DeepSeek-V2, DeepSeek-V3), DeepSeek-Coder-V2, DeepSeekMoE, and MLA (Mixed Latent Attention). His work also includes video generation projects like LaVie, Latte, SEINE, and AnimateDiff.",
+        "Category Tag": "Large Language Model Development (LLM Development), Computer Vision"
+    },
+    "Yi Yu": {
+        "Position": "Contributor",
+        "Background": "No specific educational background provided, but likely has a background in computer science, mathematics, engineering, or related fields.",
+        "Contribution": "Contributed to the development of the DeepSeek-V3 model, a large language model. This indicates involvement in the research and development of large language models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yichao Zhang": {
+        "Position": "Researcher",
+        "Background": "Likely has a background in AI and large language models, no specific educational details available.",
+        "Contribution": "Involved in the development of the DeepSeek-V3 large language model, which uses a Mixture-of-Experts architecture, contributed to load balancing and training objectives.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yifan Shi": {
+        "Position": "Ph.D. Student and Co-author at DeepSeek AI",
+        "Background": "Currently a Ph.D. student at The Chinese University of Hong Kong with a background in Electronic Design Automation, Computer Organization and Architecture, and Large Language Models. He has previous research experience at Peking University and holds a Bachelor of Science degree from Renmin University of China.",
+        "Contribution": "Co-author of the DeepSeek-V3 Technical Report, indicating involvement in the research and development of a large language model.  Also contributed to research in federated learning, distributed optimization, and differential privacy.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yiliang Xiong": {
+        "Position": "Researcher/Engineer at DeepSeek AI",
+        "Background": "Possesses a strong background in a technical field related to AI, with no specific educational details provided.",
+        "Contribution": "A key contributor to the DeepSeek-V3 project, a Mixture-of-Experts language model. Involved in the pre-training, fine-tuning, and optimization of the model. Focused on large language model development, efficient training, and innovative model architectures.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Ying He": {
+        "Position": "Contributor at DeepSeek AI",
+        "Background": "Involved in the research and development of AI models, with no specific educational background or previous roles provided.",
+        "Contribution": "Contributor to DeepSeek-V2 and DeepSeek-V3 large language models; research on 3D scene reconstruction, surface parameterization and label protection scheme for vertical federated learning.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yishi Piao": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Strong background in computer science, artificial intelligence, or a related field, with a focus on developing advanced language and multimodal models.",
+        "Contribution": "Significant contributions to the development of large language models and multimodal models, including DeepSeek-V2, DeepSeek-VL2, DeepSeek-V3, and DeepSeek-Coder-V2, with a focus on efficient inference techniques and improved performance. Also has publications in the fields of LLM and Entrepreneurship and Venture Studies.",
+        "Category Tag": "Large Language Model Development (LLM Development), Vision-Language Models / Multimodal Research, Code Intelligence and Mathematical Reasoning, Model Optimization and Architecture Design"
+    },
+    "Yisong Wang": {
+        "Position": "Contributor at DeepSeek AI",
+        "Background": "While specific educational details are not available, Yisong Wang is a contributor to DeepSeek AI's large language models.",
+        "Contribution": "Yisong Wang has contributed to the development of DeepSeek-VL2, DeepSeek-V2, and is an author on the DeepSeek-V3 Technical Report. His research focuses on enhancing model efficiency and performance through techniques like Multi-head Latent Attention (MLA) and DeepSeekMoE and he is involved in research related to multimodal understanding.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yixuan Tan": {
+        "Position": "Ph.D. Student at Duke University (2019-2024), DeepSeek AI Team Member",
+        "Background": "Ph.D. student from Duke University with a focus on neural networks and aerodynamic design.",
+        "Contribution": "Developed DeepSeek-V3 Large Language Model, research on neural networks, non-line-of-sight imaging, and artificial neural networks for aerodynamic performance prediction.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yiyang Ma": {
+        "Position": "Master's candidate in Data Science, Research Intern at DeepSeek AI",
+        "Background": "Master's candidate in Data Science at Peking University with a Bachelor's in Intelligence Science and Technology. Research experience at Microsoft Research Asia and DeepSeek AI.",
+        "Contribution": "Contributed to the development of DeepSeek-VL2 and 'Janus' models, focusing on multimodal understanding and generation. Published multiple papers on diffusion models and their applications, particularly in image compression and generation. Co-author of DeepSeek-V3 technical report.",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Yiyuan Liu": {
+        "Position": "Researcher",
+        "Background": "Specializes in large language models and high-performance computing, with a background in computer science and related fields.",
+        "Contribution": "Co-authored papers on DeepSeek LLM and Fire-Flyer AI-HPC, focusing on the development of large language models and cost-effective high-performance computing infrastructure for deep learning.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yongqiang Guo": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Contributes to research and development in computer science, with a focus on deep learning, hardware-software co-design, and remote sensing. No specific educational background information is provided.",
+        "Contribution": "Co-authored the DeepSeek-V3 Technical Report and contributed to the DeepSeek-V2 and DeepSeek LLM projects. Also published research on information system operational efficiency prediction using deep learning, cost-effective hardware-software co-design for deep learning, and a lightweight network for small object detection in remote sensing images.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yu Wu": {
+        "Position": "Full Professor at the School of Computer Science, Wuhan University; Contributor at DeepSeek AI",
+        "Background": "Holds a Ph.D. from the ReLER Lab, University of Technology Sydney, and a B.Eng degree in Mechanical Engineering from Shanghai Jiao Tong University. Postdoc at Visual AI Lab, Princeton University from 2021 to 2022.",
+        "Contribution": "A key contributor to DeepSeek-VL2, focusing on Vision-Language models and multimodal understanding.  His research includes computer vision, machine learning, and multimodal learning, with specific work on video scene parsing, video object segmentation, and action recognition.  He has made significant contributions to the development of large Mixture-of-Experts (MoE) Vision-Language Models and has published extensively on topics related to machine learning and computer vision.",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Yuan Ou": {
+        "Position": "Core Researcher",
+        "Background": "Computational linguistics background, advanced to Peking University's Computational Linguistics Institute, and has experience in both academia and industry.",
+        "Contribution": "Led the development of the VECO multilingual pre-training model at Alibaba and contributed to the development of DeepSeek-V2 and DeepSeek-V3, known for their cost-effectiveness and strong performance. His work has significantly contributed to the company's reputation as a leader in AI technology and open-source contributions.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yuduan Wang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "No specific details about Yuduan Wang's educational background or previous professional roles are available in the provided search results.",
+        "Contribution": "Co-author of the DeepSeek-V2 and V3 language models, focusing on Mixture-of-Experts models and efficient training and inference techniques. Also has publications in the field of solar energy.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yue Gong": {
+        "Position": "Full Professor at South China University of Technology (SCUT) & Contributor at DeepSeek AI",
+        "Background": "Ph.D. in Computer Science from Sun Yat-sen University (SYSU), with postdoctoral research experience at the University of Macau (UM) and research assistant experience at the Hong Kong University of Science and Technology (HKUST). He has also been recognized as a World's Top 2% Scientist.",
+        "Contribution": "Contributor to the DeepSeek-V3 Technical Report, part of the research team working on large language models at DeepSeek AI. Research interests include Computational Intelligence, Evolutionary Optimization, and Machine Learning with applications in Intelligent Transportation Systems, Data Mining and Image Processing. Published multiple research papers in areas of 3D reconstruction, Artificial Intelligence, Education and Peer-to-peer networks.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yuheng Zou": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Associated with Peking University, with a background in computer science and technology, specializing in neural network quantization and deep learning.",
+        "Contribution": "Contributed to the development of DeepSeek's large language models, including DeepSeek LLM, DeepSeek-V2 and DeepSeek-V3. Focused on scaling open-source language models, improving efficiency, and optimizing training through software-hardware co-design. Also contributed to the Multi-Token Prediction (MTP) objective.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yujia He": {
+        "Position": "AI Researcher at DeepSeek AI",
+        "Background": "Likely a researcher in AI or related fields. Co-author of DeepSeek-V3 and DeepSeek-V2 Technical Reports, which were released by DeepSeek AI.",
+        "Contribution": "Contributed to the development of DeepSeek's large language models (LLMs), specifically DeepSeek V3 and DeepSeek V2.  Her work focuses on large language model development and improvements in AI model training.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yunfan Xiong": {
+        "Position": "Master's Student and Contributor at DeepSeek AI",
+        "Background": "Holds a Master's degree in Data Science from Peking University, with a Bachelor's in Electronics Engineering and Computer Science also from Peking University. Her research focuses on approximate algorithms in graph streams.",
+        "Contribution": "Contributor to the DeepSeek-V3 large language model project.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yuxiang Luo": {
+        "Position": "Ph.D. Student, DeepSeek AI (potentially)",
+        "Background": "Yuxiang Luo is a Ph.D. student in Computer Science and Engineering at The Ohio State University, expected to graduate in 2025. He has a diverse background, including a B.S. in Computer Science and Engineering and a M.S. in Welding Engineering, both from The Ohio State University. He also attended Harbin University of Science and Technology. His research interests span reinforcement learning, optimization methods, and welding process optimization.",
+        "Contribution": "Yuxiang's contributions include research on reinforcement learning, optimization, and sequential optimization methods. He has also worked on welding process optimization. While his specific contributions at DeepSeek AI are not clear, he has co-authored a paper related to privacy-preserving contact tracing. His work includes research on finite element analysis (FEA) for modeling welding processes and has presented at multiple conferences. He won a Gold Medal in the International Olympiad in Informatics in 2020.",
+        "Category Tag": "Model Optimization and Architecture Design"
+    },
+    "Yuxiang You": {
+        "Position": "Assistant Professor & Key Contributor at DeepSeek AI",
+        "Background": "Ph.D. in Electrical and Computer Engineering from the University of Michigan, with prior experience as a Senior Research Scientist at NVIDIA Research and postdoctoral researcher at the University of Washington. He also held a visiting student researcher position at Stanford University and is currently an Assistant Professor at the University of Texas at Dallas.",
+        "Contribution": "Key contributor to DeepSeek-VL2 and DeepSeek-V3 projects, focusing on developing advanced Mixture-of-Experts Vision-Language Models. Research involves integrating perception, planning, and control, using machine learning and deep learning to tackle challenges in robot perception and introducing domain knowledge into deep neural networks.",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Yuxuan Liu": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Yuxuan Liu has a research background from The Hong Kong University of Science and Technology and Shanghai Jiao Tong University.  His work includes 18 research publications with 86 citations, including: A Microscopic Vision-Based Robotic System For Floating Electrode Assembly.",
+        "Contribution": "Yuxuan Liu has contributed to the development of the DeepSeek-V2 and DeepSeek-V3 large language models. He has also been involved in research related to 3D perception technologies for autonomous driving, including 3D lane detection and object detection. His research also includes work on curb detection using altitude difference images. He also has a paper on an open source evaluation toolkit of large vision-language models.",
+        "Category Tag": "Large Language Model Development (LLM Development), Computer Vision"
+    },
+    "Yuyang Zhou": {
+        "Position": "Contributor",
+        "Background": "No specific educational background or previous roles are available.",
+        "Contribution": "Contributed to the DeepSeek-V3 Technical Report, focusing on the development of large language models, particularly Mixture-of-Experts (MoE) models. Also involved in exploring efficient training and inference techniques, such as Multi-head Latent Attention (MLA) and DeepSeekMoE architectures.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Z.F. Wu": {
+        "Position": "Researcher",
+        "Background": "The provided documents do not contain specific details about Z.F. Wu's educational background or previous roles. Z.F. Wu is part of a large team of researchers at DeepSeek AI.",
+        "Contribution": "Z.F. Wu is a contributor to the DeepSeek-V3 large language model project and is listed as an author on the 'DeepSeek-V3 Technical Report'. He is also listed as an author on the DeepSeek-Prover-V1.5 paper. His research interests include large language models, Mixture-of-Experts (MoE) architectures, efficient training methods, multi-token prediction objectives, and reinforcement learning.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Z.Z. Ren": {
+        "Position": "Author/Researcher",
+        "Background": "No specific educational background or prior professional roles are available from the search results. The individual is associated with DeepSeek AI.",
+        "Contribution": "Contributed to the development of the DeepSeek-V3 large language model, focusing on its architecture, training, or evaluation. Author of DeepSeek-V2 and DeepSeek-V3 papers. Focuses on the development of Mixture-of-Experts (MoE) models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zehui Ren": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Strong background in computer science, machine learning, or artificial intelligence, focusing on the advancements of Artificial General Intelligence (AGI).",
+        "Contribution": "Contributed to the development of DeepSeek's large language models, including DeepSeek LLM and DeepSeek V2 and DeepSeek V3 model, focusing on improving multilingual capabilities and computational efficiency; co-authored publications on AI and HPC; actively involved in developing algorithms to enhance search accuracy, scalability, and speed; research primarily focuses on the pre-training and scaling of foundation models for AGI.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zhangli Sha": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Limited information available about his educational background and previous roles. Worked on projects related to library technical services and academic libraries previously (unconfirmed).",
+        "Contribution": "Key contributor to the DeepSeek-V3 large language model (LLM).  Author of the DeepSeek-V3 Technical Report. Also involved in the development of  Fire-Flyer AI-HPC and DeepSeek-V2.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zhe Fu": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Strong background in computer science, artificial intelligence, or related technical field.",
+        "Contribution": "Contributed to the development of DeepSeek's large language models, including DeepSeek-V2 and DeepSeek-V3. Involved in the development of Multi-head Latent Attention (MLA) and DeepSeekMoE architectures. Focused on cost-effective training and efficient inference of large AI models, as well as hardware/software co-design for Deep Learning. Also involved in the ethical aspects of AI, specifically on how to reflect community rules in online content moderation.",
+        "Category Tag": "Large Language Model Development (LLM Development), Model Optimization and Architecture Design, AI Ethics and Governance, System Architecture and Performance Optimization"
+    },
+    "Zhean Xu": {
+        "Position": "Researcher",
+        "Background": "PhD in Computer Science from Dartmouth College, Bachelor's degree in Computer Science from Shanghai Jiao Tong University (SJTU). Research focused on Human-Computer Interaction (HCI). Prior internships at Microsoft Research, Meta Reality Labs, and Google.",
+        "Contribution": "Actively contributing to the advancement of Artificial General Intelligence (AGI) at DeepSeek AI, focusing on pre-training and scaling of foundation models. Researching novel and efficient text input methods for mobile and emerging platforms, applying data-driven computational design and language model techniques. Published in top-tier HCI venues.",
+        "Category Tag": "Human-Computer Interaction / User Experience"
+    },
+    "Zhenda Xie": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Holds a Ph.D. in Computer Science from Tsinghua University (2023) and a B.Eng. in Electronic Information Engineering from the University of Science and Technology of China (2018). Former research intern at Microsoft Research Asia (2018-2023).",
+        "Contribution": "Actively engaged in advancing Artificial General Intelligence (AGI) with a focus on the development of Vision-Language models (DeepSeek-VL, DeepSeek-VL2) and large language models (DeepSeek-V3).  He also contributes to the development of models such as DeepSeek-Coder and DeepSeekMoE.",
+        "Category Tag": "Large Language Model Development (LLM Development), Vision-Language Models / Multimodal Research, Computer Vision"
+    },
+    "Zhengyan Zhang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Ph.D. student in Computer Science and Technology at Tsinghua University, with prior research internship experience at Microsoft Research Asia (MSRA).",
+        "Contribution": "Actively involved in pre-training and scaling of foundation models, contributing to the development of DeepSeek-V3, a Mixture-of-Experts language model, which includes using Multi-head Latent Attention (MLA) and DeepSeekMoE architectures, and the implementation of auxiliary-loss-free strategy for load balancing.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zhewen Hao": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Strong academic background, focusing on Artificial General Intelligence (AGI).",
+        "Contribution": "Contributed to the development of DeepSeek-V2, DeepSeek-V3, and DeepSeek-Coder-V2 models, including architecture design (MLA, DeepSeekMoE), pre-training, and fine-tuning of large language models. His research focuses on pre-training techniques, scaling foundation models, and improving coding and mathematical reasoning capabilities of models.",
+        "Category Tag": "Large Language Model Development (LLM Development), Model Optimization and Architecture Design"
+    },
+    "Zhibin Gou": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Master's degree in Information Science and Technology from Tsinghua University (expected June 2025), Bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications (June 2022, top 1% of class). Research Intern at Microsoft Research Asia and Baidu Inc.",
+        "Contribution": "Contributions to DeepSeek-V3, DeepSeek-Coder-V2, and DeepSeek-Prover-V1.5, as well as research in reasoning and reinforcement learning for LLMs, including work on tool-use, self-correction, and pre-training data selection. Co-authored notable papers such as 'ToRA', 'CRITIC', and 'Rho-1'.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zhicheng Ma": {
+        "Position": "Researcher",
+        "Background": "Contributed to the development of the DeepSeek-V3 model, possibly with a background in machine learning and large language models, although there are multiple individuals with the same name.",
+        "Contribution": "Co-author of the DeepSeek-V3 model, focusing on its architecture, training, and optimization, specifically involving Mixture-of-Experts models and multi-head latent attention.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zhigang Yan": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "No specific information is available regarding Zhigang Yan's educational background or previous roles.",
+        "Contribution": "Key contributor to the development of DeepSeek-V3, a large language model featuring Multi-head Latent Attention (MLA) and DeepSeekMoE architectures. Developed an auxiliary-loss-free strategy for load balancing and a multi-token prediction training objective to enhance the model's performance.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zhihong Shao": {
+        "Position": "Ph.D. student and AI Researcher at DeepSeek AI",
+        "Background": "Final-year Ph.D. student in Conversational AI at Tsinghua University, with a Bachelor's degree in Computer Science and Technology from Beihang University. His research is focused on natural language processing and deep learning.",
+        "Contribution": "Key contributor to DeepSeekMath, DeepSeek-Prover, and DeepSeek-V2. Research includes improving mathematical reasoning of LLMs, optimizing inference time, and developing tool-augmented AI systems. He is the co-author of the paper \"DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models\".",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zhiyu Wu": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Researcher focusing on artificial intelligence and large language models, with a background not specified in detail but contributing to DeepSeek AI publications and technical reports.",
+        "Contribution": "Key contributor to the development of the DeepSeek large language model series, including the DeepSeek-V3 model. He also contributed to vision-language models, specifically the DeepSeek-VL2, focusing on high-resolution image processing, efficient model inference and also a co-author of a paper on backdoor attack detection. He also worked on other projects such as Janus and Mathscape.",
+        "Category Tag": "Vision-Language Models / Multimodal Research"
+    },
+    "Zhuoshu Li": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Holds a Ph.D. in Computer Science from the University of California, Berkeley, a B.S. in Computer Science from Peking University, and a degree from the University of Southern California. His background is in computer science, with expertise in machine learning and distributed systems.",
+        "Contribution": "Co-created and co-led the development of vLLM, an open-source LLM serving engine. He contributed to DeepSeek-VL, DeepSeek-V2, and ESFT. His research focuses on high-performance computing, distributed systems, and the intersection of machine learning and distributed systems, as well as human-computer interaction and AI for design.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zihui Gu": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Computer science and natural language processing background, with a Ph.D. in informatics from the University of Illinois, Urbana-Champaign and a graduate degree from Renmin University of China.",
+        "Contribution": "Key contributor to DeepSeek AI's large language models, including DeepSeek-Coder-V2 and DeepSeek-V2, with a focus on code intelligence and language understanding. Also contributed to DeepSeek-V3. His research involves large language models and their application to code and language.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zijia Zhu": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "The provided information does not specify Zijia Zhu's educational background.",
+        "Contribution": "Listed author in the DeepSeek-V3 Technical Report. Contributed to the development of the DeepSeek-V3 large language model, which incorporates Multi-head Latent Attention (MLA) and DeepSeekMoE architectures, and a novel auxiliary-loss-free strategy for load balancing.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zijun Liu": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Has a Master's degree in Artificial Intelligence and a Bachelor's degree in Communication Engineering from Tsinghua University. Research interests include LLM, Agents, Machine Translation, and AIGC.",
+        "Contribution": "A contributing author to the DeepSeek-V3 and DeepSeek-V2 models, with contributions in the development and validation of the models' architecture. Also involved in implementation and testing of DeepSeek-V3 with TensorRT-LLM and vLLM. Research focuses on multimodal large language models, reinforcement learning from human feedback, and retrieval-augmented generation. Co-author of the DeepSeek-V3 Technical Report and the paper, \"AIGS: Generating Science from AI-Powered Automated Falsification.\"",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zilin Li": {
+        "Position": "Contributor at DeepSeek AI",
+        "Background": "Holds a Ph.D. from Tsinghua University and was a postdoctoral research fellow at Harvard T.H. Chan School of Public Health.  Previously a professor at Northeast Normal University and an assistant professor at Indiana University School of Medicine. Also held research positions at Harvard.",
+        "Contribution": "Contributed to the DeepSeek-V3 project, including the development of Multi-head Latent Attention (MLA) and DeepSeekMoE architectures. Developed STAARpipeline for analyzing large-scale whole-genome sequencing studies. Focuses on statistical methods for large-scale genetic and genomic data analysis.",
+        "Category Tag": "Model Optimization and Architecture Design"
+    },
+    "Ziwei Xie": {
+        "Position": "Researcher",
+        "Background": "Ph.D. from Tsinghua University in 2023 specializing in self-supervised visual representation learning. Research experience at Toyota Technological Institute at Chicago and Tencent.",
+        "Contribution": "Developed DeepSeek-V2 and DeepSeek-V3 Mixture-of-Experts language models. Contributed to the project 'Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning'. Research includes work on protein complex prediction and real-world image super-resolution.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Ziyang Song": {
+        "Position": "Ph.D. Student and Researcher at DeepSeek AI",
+        "Background": "A third-year Ph.D. student at The Hong Kong Polytechnic University, with M.Eng and B.Eng degrees from Xi'an Jiaotong University. Previously interned at SenseTime and Tencent Robotics X.",
+        "Contribution": "Key contributor to the development of DeepSeek-V3, a large language model. His research focuses on computer vision, particularly segmentation, reconstruction, and editing of 3D objects. Co-author of multiple research papers in the areas of computer vision and machine learning.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Ziyi Gao": {
+        "Position": "Researcher",
+        "Background": "Researcher at DeepSeek AI, contributed to the DeepSeek-V3 language model, likely has an academic background.",
+        "Contribution": "Co-authored the DeepSeek-V3 Technical Report and contributed to ReToMe-VA. Involved in the development of large language models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zizheng Pan": {
+        "Position": "Full-time Researcher at DeepSeek AI",
+        "Background": "Ph.D. in Computer Science from Monash University, Master's from the University of Adelaide, and Bachelor's in Software Engineering from Harbin Institute of Technology. Previously a research intern at NVIDIA's AI Algorithm Group.",
+        "Contribution": "Key researcher at DeepSeek AI contributing to the development of DeepSeek-VL2 and DeepSeek-V3 models, focusing on efficient and scalable vision models, optimizing transformer architectures, and improving their efficiency. His research includes areas such as model deployment, efficient attention mechanisms, token pruning/merging, and memory-efficient training for deep neural networks. Also contributes to Multimodal Large Language Models (LLMs), visual generative models, and Math/Code/LLM alignment.",
+        "Category Tag": "Model Optimization and Architecture Design"
+    },
+    "Bei Feng": {
+        "Position": "Key Contributor at DeepSeek AI",
+        "Background": "No specific educational background is provided, affiliated with DeepSeek AI, and has contributed to their research.",
+        "Contribution": "Key contributor to the development of DeepSeek AI's large language models, including DeepSeek-V3 and DeepSeek-V2, focusing on efficient model architectures and training strategies.",
+        "Category Tag": "Model Optimization and Architecture Design"
+    },
+    "Hui Li": {
+        "Position": "Contributor to DeepSeek AI's large language models, Senior Principal Scientist at Autodesk Research (former)",
+        "Background": "Ph.D. in Computer Science from The University of Hong Kong, with research experience at NEC Laboratories Europe and Jiangsu Provincial Engineering Laboratory of Pattern Recognition and Computational Intelligence.  Also has worked at Airware and Boeing.",
+        "Contribution": "Involved in the research and development of DeepSeek-V2 and DeepSeek-V3, contributed to robot learning including reinforcement learning, imitation learning, and foundation models for robotic manipulation, and also has research contributions in image processing, speaker verification and knowledge-driven NLP tasks.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "J.L. Cai": {
+        "Position": "Researcher/Developer",
+        "Background": "Involved in research related to AI, with a focus on deep learning and medical imaging. Co-authored papers on large language models.",
+        "Contribution": "Co-authored the DeepSeek-V3 Technical Report, a strong Mixture-of-Experts language model. Contributions extend to model architectures, training strategies, and performance evaluations.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Jiaqi Ni": {
+        "Position": "Author at DeepSeek AI",
+        "Background": "Strong background in computer science, artificial intelligence, or a related field, inferred from contributions to the DeepSeek-V3 Technical Report.",
+        "Contribution": "Co-authored the DeepSeek-V3 Technical Report, contributing to the development of the 671 billion parameter large Mixture-of-Experts language model. Likely involved in model architecture design, training optimization, and performance evaluation. Contributed to the implementation of Multi-head Latent Attention (MLA) and DeepSeekMoE architectures, an auxiliary-loss-free strategy for load balancing, and a multi-token prediction training objective.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Lei Xu": {
+        "Position": "Contributing Author at DeepSeek AI, Applied Scientist (former) at Amazon AWS",
+        "Background": "Lei Xu has a strong background in computer science with a Ph.D. from MIT, a Master's degree from Northwestern Polytechnical University, and Bachelor's degrees from Tsinghua University and Nanjing University of Posts and Telecommunications. His research includes natural language processing and machine learning, particularly in the application of large language models within the medical domain.",
+        "Contribution": "Lei Xu is a contributing author to the DeepSeek-V3 Technical Report, where he helped develop the DeepSeek-V3 large language model. He has published extensively in top AI conferences on topics such as prompt optimization, text summarization, and human evaluation of generative models. His work focuses on areas including natural language processing, machine learning, and the application of large language models, with notable contributions to model robustness, synthetic tabular data generation, and eXplainable AI (XAI). His research also touches on medical AI, causal discovery, and feature selection.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Meng Li": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Likely holds advanced degrees in computer science, artificial intelligence, or a related field. Part of the research team at DeepSeek AI, focusing on the development of large language models.",
+        "Contribution": "Contributed to the development of DeepSeek-V2 and DeepSeek-V3 large language models, focusing on efficient and cost-effective training and inference. Researches Mixture-of-Experts (MoE) models, Multi-head Latent Attention (MLA), and DeepSeekMoE architectures. Focuses on load balancing and multi-token prediction.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Ning Tian": {
+        "Position": "Co-author of DeepSeek-V3 Technical Report",
+        "Background": "Background is unclear, potentially in the field of AI, with possible previous experience at ByteDance.  Other individuals named Ning Tian have backgrounds in ophthalmology/retinal research and geotechnical engineering.",
+        "Contribution": "Contributed to the development of the DeepSeek-V3 large language model, which is a Mixture-of-Experts model with 671 billion parameters trained on 14.8 trillion tokens. Focused on efficient training methods and advanced model architecture.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "R.J. Chen": {
+        "Position": "Ph.D. Candidate at Harvard University, Researcher at DeepSeek AI",
+        "Background": "Ph.D. candidate with a background in Biomedical Engineering and Computer Science, with experience at Apple, Microsoft Research, and Johns Hopkins University.",
+        "Contribution": "Co-authored DeepSeek-V3 Technical Report, research focuses on multimodal learning, representation learning for gigapixel images, and generative AI in healthcare policy.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "R.L. Jin": {
+        "Position": "Co-author",
+        "Background": "No specific educational background is available, and no information on previous professional roles is mentioned.",
+        "Contribution": "Co-authored the DeepSeek-V3 Technical Report and the DeepSeek-V2 report, contributing to the development of large language models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Ruyi Chen": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Involved in the research and development of the DeepSeek-V3 model. There are other individuals with the same name, one with a background in UI/UX design, another in statistics, and another as a Ph.D. candidate.",
+        "Contribution": "Co-authored the DeepSeek-V3 Technical Report, indicating involvement in the development of the DeepSeek-V3 large language model.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "S.S. Li": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Specific educational background and previous roles are not detailed in the provided search results.",
+        "Contribution": "Co-author involved in the development of DeepSeek-V2 and DeepSeek-V3, focusing on efficient training methodologies, innovative attention mechanisms (MLA), and Mixture-of-Experts (MoE) models. Key contributions include advancements in cost-effectiveness and performance of large language models.",
+        "Category Tag": "Model Optimization and Architecture Design"
+    },
+    "Shuang Zhou": {
+        "Position": "Co-author of DeepSeek-V3 Technical Report",
+        "Background": "Background information not available, involved in the development of the DeepSeek-V3 model.",
+        "Contribution": "Co-authored the DeepSeek-V3 Technical Report, a 671B parameter Mixture-of-Experts language model, which utilized Multi-head Latent Attention (MLA) and DeepSeekMoE architectures for efficient training.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Tianyu Sun": {
+        "Position": "Contributing Author at DeepSeek AI",
+        "Background": "Master's degree in Computer Science from UCSD and a PhD in Mathematics from Indiana University Bloomington. Former senior software engineer at SambaNova Systems and has experience at Anyscale.",
+        "Contribution": "Contributed to the DeepSeek-V3 model, focusing on efficient inference and cost-effective training through Multi-head Latent Attention (MLA) and DeepSeekMoE architectures. Developed an auxiliary-loss-free strategy for load balancing and a multi-token prediction training objective.",
+        "Category Tag": "Model Optimization and Architecture Design"
+    },
+    "X.Q. Li": {
+        "Position": "Contributor",
+        "Background": "Seasoned global business leader, investor, and entrepreneur with a background in economics and finance. Extensive experience in operating and investment across multiple countries and in the life sciences and biotech industries.",
+        "Contribution": "Listed as a contributor to DeepSeek's V3 model. His involvement is likely strategic and advisory given his background, rather than deeply technical.",
+        "Category Tag": "Innovation and Research Support"
+    },
+    "Xiangyue Jin": {
+        "Position": "Researcher at DeepSeek AI, PhD student at London Business School",
+        "Background": "Holds a B.A. in Business Data Science with minors in Economics from Shanghai Jiao Tong University.  Currently a PhD student in Management Science and Operations at London Business School. Previously a research assistant at Singapore Management University and a PhD student at UCLA (left due to visa issues).",
+        "Contribution": "Contributed to the development of DeepSeek-V3, a large language model. Also an author on DeepSeek-V2.  Research interests are in the intersection of Economics, Optimization, and Data Science, particularly regarding technology innovation, digital platform governance, and social media dynamics. Also has interest in social sciences, especially sociology.",
+        "Category Tag": "LLM Development"
+    },
+    "Xiaojin Shen": {
+        "Position": "Contributor at DeepSeek AI",
+        "Background": "No specific educational or career background information available before joining DeepSeek AI.",
+        "Contribution": "Key contributor to the DeepSeek-V3 large language model, focusing on efficient training techniques, model architecture design (MLA and DeepSeekMoE), and optimization for inference and training. Co-authored the DeepSeek-V3 Technical Report and contributed to the model's training and development, including pre-training on 14.8 trillion tokens and supervised fine-tuning. Also contributed to the co-design of algorithms, frameworks, and hardware to enhance training efficiency and reduce costs.",
+        "Category Tag": "Large Language Model Development (LLM Development), Model Optimization and Architecture Design"
+    },
+    "Xiaosha Chen": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Researcher at DeepSeek AI.  The provided documents do not provide details on their educational background.",
+        "Contribution": "Author of the DeepSeek-V3 Technical Report.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Xiaowen Sun": {
+        "Position": "Researcher/Engineer",
+        "Background": "No specific educational background details available, but works at DeepSeek AI.",
+        "Contribution": "Contributor to the DeepSeek-V3 large language model and research in object state-sensitive neurorobotic task planning, as well as publications in MLLM and Cognitive Robotics.",
+        "Category Tag": "Large Language Model Development (LLM Development), Robotic Learning and Applications"
+    },
+    "Xiaoxiang Wang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Educational background is not specified, but has contributed to the development of large language models at DeepSeek AI.",
+        "Contribution": "Contributed to the research and development of DeepSeek-V2 and DeepSeek-V3 language models, focusing on efficient training techniques and Mixture-of-Experts architecture.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Xinnan Song": {
+        "Position": "Unknown",
+        "Background": "No clear professional profile at DeepSeek AI was found. However, the provided articles indicate work on large language models.",
+        "Contribution": "Authored articles on DeepSeek-V2 and DeepSeek-V3, which are large language models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Xinyi Zhou": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Research background in AI and machine learning, with a focus on the social impacts of technology and development of socially aware AI.",
+        "Contribution": "Contributor to DeepSeek-V2 and DeepSeek-V3 large language models, research on mitigating harm in LLMs, particularly in high-stakes social domains like healthcare, education, and democracy. Researching how people seek health advice through LLMs, development of multimodal AI, fake news detection, semantic communications, and graph generation.",
+        "Category Tag": "AI Ethics and Governance"
+    },
+    "Y.X. Zhu": {
+        "Position": "Contributor at DeepSeek AI",
+        "Background": "No specific educational background is provided, but contributed to DeepSeek's large language models.",
+        "Contribution": "Key contributor to the DeepSeek-V3 large language model, focusing on model architecture, training optimization, and achieving high performance with limited resources. Also contributed to DeepSeek-V2. ",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yanping Huang": {
+        "Position": "Key Contributor at DeepSeek AI, Engineer at Google (former)",
+        "Background": "Holds a PhD from University of Washington and Peking Union Medical College & Chinese Academy of Medical Science, with extensive experience in research and development in artificial intelligence and machine learning. She has worked at Google as an engineer before joining DeepSeek AI.",
+        "Contribution": "A key contributor to DeepSeek AI's large language models, including DeepSeek-V2 and DeepSeek-V3. She has focused on creating efficient and cost-effective models through efficient inference and economical training, contributing to innovative architectures like Multi-head Latent Attention (MLA) and DeepSeekMoE. She has published many research papers in areas such as machine intelligence, natural language processing, and machine learning systems.",
+        "Category Tag": "Large Language Model Development (LLM Development), Model Optimization and Architecture Design"
+    },
+    "Yaohui Li": {
+        "Position": "Researcher",
+        "Background": "Holds a Ph.D. in Computer Science from Nanjing University, along with a Master's degree and undergraduate degree from the same university's Department of Control Science and Intelligence Engineering.",
+        "Contribution": "Contributed to the DeepSeek-V3 project, a large Mixture-of-Experts (MoE) language model, and has published research in the field of Large Language Models and Artificial Intelligence.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yi Zheng": {
+        "Position": "Professor at the Chinese Academy of Sciences, Director of the Brain-inspired Cognitive Intelligence Lab,  Chief Scientist in AI Ethics and Governance at the Institute of AI International Governance, Tsinghua University, and contributor to DeepSeek AI",
+        "Background": "Professor at the Chinese Academy of Sciences (CAS) with a Ph.D. Focused on brain-inspired intelligence.  Has experience in both academic research and policy making, and has prior industry experience as an image quality engineer at General Electric and in software engineering internships.",
+        "Contribution": "Key contributor to DeepSeek-V2 and DeepSeek-V3 language models, authoring technical reports for both.  He is also a leading figure in AI ethics and governance, having developed key frameworks and advised international organizations. His research includes developing theories to understand human intelligence and evolving artificial brains.",
+        "Category Tag": "AI Ethics and Governance"
+    },
+    "Yuchen Zhu": {
+        "Position": "PhD Candidate in Foundational Artificial Intelligence at University College London; Researcher at DeepSeek AI",
+        "Background": "PhD candidate with a strong academic background in Mathematics and Machine Learning, including a Master's degree in Machine Learning from University College London and a Bachelor's and Master's degree in Mathematics from the University of Cambridge.  Has research experience at Amazon Research Tuebingen and Microsoft Research Cambridge.",
+        "Contribution": "Yuchen Zhu's research focuses on causal inference and abstraction, including how causal structures arise from detailed models. He also explores causal inference under weak observability conditions. Additionally, he works on the role of causality in understanding modern deep learning models, as well as the safety of large language models and responsible AI methodologies. Specific contributions to DeepSeek AI are not mentioned in the provided text.",
+        "Category Tag": "Innovation and Research Support"
+    },
+    "Yunxian Ma": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Strong academic background likely in computer science, artificial intelligence, or a related field.",
+        "Contribution": "Key contributor to the DeepSeek-V3 large language model, focusing on efficient model architectures, training techniques, and Mixture-of-Experts models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zhen Huang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Likely holds advanced degrees in computer science, artificial intelligence, or a related field. Has experience at Apple, with expertise in Artificial intelligence, Speech recognition, Deep Learning, and Machine Learning. There is also a Zhen Huang who is a Full Professor at the National University of Defense Technology, whose expertise includes computer vision and LLMs.",
+        "Contribution": "Contributed to the development of the DeepSeek-V2 and DeepSeek-V3 large language models, focusing on efficient training techniques, Multi-head Latent Attention (MLA) and DeepSeekMoE architectures, and load balancing strategies.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zhipeng Xu": {
+        "Position": "Researcher/Developer at DeepSeek AI",
+        "Background": "Expertise in large language models, with a focus on Mixture-of-Experts architectures and efficient model training, while his education background is unknown.",
+        "Contribution": "Key contributor to the development of DeepSeek-V3, a large language model featuring Multi-head Latent Attention (MLA) and DeepSeekMoE architectures, trained on 14.8 trillion tokens. He is also an author on other DeepSeek AI publications.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zhongyu Zhang": {
+        "Position": "Researcher",
+        "Background": "Likely has a background in computer science, machine learning, or a related field, with a focus on artificial intelligence.",
+        "Contribution": "Contributed to the development of DeepSeek-V3, a large language model, and research on dataset distillation and model optimization. Co-authored the DeepSeek-V3 technical report and a paper on dataset distillation. Also contributed to the DeepSeek-V2 model.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Dongjie Ji": {
+        "Position": "Researcher/Engineer at DeepSeek AI",
+        "Background": "No specific educational background publicly available. Career history prior to DeepSeek AI is not detailed.",
+        "Contribution": "Key contributor to the DeepSeek-V3 model, a cutting-edge large language model. Contributed to the development of DeepSeek's foundational AI technology and models. Work focuses on improving performance, efficiency, and capabilities of large language models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Tony Wang": {
+        "Position": "Contributor",
+        "Background": "PhD candidate at MIT, currently on leave. Focuses on design, implementation, execution, and analysis of frontier model evaluations.",
+        "Contribution": "Contributed to the development of the DeepSeek-V3 model, potentially in areas related to robustness and evaluation. Also contributed to DeepSeek-Coder-V2 and DeepSeekMath models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Wei An": {
+        "Position": "AI Researcher/Engineer",
+        "Background": "Limited information available regarding specific educational background and previous roles.",
+        "Contribution": "Key contributor to the DeepSeek-V3 model, focusing on efficient model design, training and optimization. Also involved in software-hardware co-design for deep learning.",
+        "Category Tag": "Model Optimization and Architecture Design"
+    },
+    "Peng Zhang": {
+        "Position": "AI Researcher at DeepSeek AI",
+        "Background": "Holds an MSc in Electronic and Electrical Engineering from the University of Newcastle and a Ph.D. from the University of Durham focusing on computer vision and text-image matching.  His earlier work included machine learning for process control.",
+        "Contribution": "Co-author of the DeepSeek-V3 technical report, a Mixture-of-Experts (MoE) language model, and co-author of the DeepSeek-Coder series of open-source code models. His research also includes computer vision, deep learning prediction, reinforcement learning, and process control.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Zhen Zhang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Strong academic background in computer science, with a focus on artificial intelligence research.",
+        "Contribution": "Co-author of the DeepSeek-V3 Technical Report, which introduced a highly efficient large language model and developed Multi-head Latent Attention (MLA) and DeepSeekMoE architectures, which were validated in DeepSeek-V2.  Contributed to research on uncertainty in natural language processing.  Has also published articles in Artificial Intelligence, Computer Vision, Natural Language Processing, and Machine Learning.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Shaoqing Wu": {
+        "Position": "Contributor at DeepSeek AI",
+        "Background": "No specific educational background for Shaoqing Wu at DeepSeek AI is provided. Multiple people share this name, including a professor in Engineering Mechanics, a materials science researcher, a Chinese artist, and an Architect of Engineering Solutions. The specific background of the Shaoqing Wu at DeepSeek AI is not specified, though they are a contributor to the DeepSeek-V3 model.",
+        "Contribution": "Contributed to the development of the DeepSeek-V3 large language model, a Mixture-of-Experts model with 671B parameters. They were involved in the model's architecture (Multi-head Latent Attention and DeepSeekMoE), pre-training (14.8 trillion tokens), and the overall project, which has achieved performance comparable to leading closed-source models. The training process was cost-effective and stable.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Miaojun Wang": {
+        "Position": "Professor of Economics at Zhejiang University, Co-Director of the CUHK-Zhejiang University Joint Research Center for Digital Economy",
+        "Background": "Professor of Economics at Zhejiang University, graduated from Peking University in 2004, promoted to full professor in 2010. Research focuses on dynamic game theory, organizational economics, and digital economics.",
+        "Contribution": "Co-authored the papers 'DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model' and 'DeepSeek-V3 Technical Report', indicating involvement in the development of these language models. Also contributed to the creation of a multimodal mini-dataset named CapQA.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Xianzu Wang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Specific educational background is not provided in the document. He is currently working at DeepSeek AI.",
+        "Contribution": "Co-authored the DeepSeek-V2 and DeepSeek-V3 technical reports. Contributed to the development of efficient and cost-effective large language models using Mixture-of-Experts architectures.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "W.L. Xiao": {
+        "Position": "Researcher",
+        "Background": "Contributed to the DeepSeek-V3 Technical Report. It is difficult to ascertain educational background due to multiple people with the same name, one of which who studied at the Primary and Middle School of Shanghai Conservatory of Music, graduated from the Ecole Normale de Paris, and pursued a Master Degree in Chamber Music.",
+        "Contribution": "Co-authored the DeepSeek-V3 Technical Report, contributing to the development of large language models with a focus on model architecture improvements such as multi-head latent attention (MLA) and sparse mixture-of-experts (DeepseekMoE). Also contributed to the DeepSeek-V2 model.",
+        "Category Tag": "Model Optimization and Architecture Design"
+    },
+    "Ying Tang": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Ying Tang's specific educational background is not detailed in the provided documents, but he is a researcher at DeepSeek AI.",
+        "Contribution": "Ying Tang contributed to the development of DeepSeek-V2 and DeepSeek-V3 large language models and has worked on projects related to large language model training and efficient training of large models.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yukun Zha": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Yukun Zha's educational background is not explicitly detailed. He is a researcher at DeepSeek AI, a Chinese startup focused on Large Language Model (LLM) research.",
+        "Contribution": "Key contributions to the development of DeepSeek-V3, including innovative load balancing strategy, training objective, Multi-Token Prediction (MTP) objective, and DeepSeekMoE architectures. He focused on efficient training and cost-effective inference of large language models.",
+        "Category Tag": "Model Optimization and Architecture Design"
+    },
+    "Leyi Xia": {
+        "Position": "Researcher at DeepSeek AI",
+        "Background": "Background in physics, computer science, and/or related fields, with potential prior experience in areas such as MCP photo detector development, molecular therapeutics, and AI research. Specific educational details are not provided, but there are several individuals named Leyi Xia with backgrounds in physics, biochemistry, and computer science.",
+        "Contribution": "Co-author of the DeepSeek-V3 Technical Report, which details the development of a large Mixture-of-Experts (MoE) language model. Key contributions include work on the model's architecture, training, and efficiency, specifically the implementation of Multi-head Latent Attention (MLA) and DeepSeekMoE architectures. Also contributed to the DeepSeek-V2 model.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Jian Liang": {
+        "Position": "Associate Professor at the Center for Research on Intelligent Perception and Computing, Institute of Automation, Chinese Academy of Sciences (CASIA)",
+        "Background": "Holds a Ph.D. in Pattern Recognition and Intelligent Systems from the Chinese Academy of Sciences (CASIA) and a bachelor's degree in Automation from Xi'an Jiaotong University. Previously a research fellow at the Vision and Learning Group, National University of Singapore. Has prior industry experience at Kuaishou Technology, Alibaba Group, and Tencent.",
+        "Contribution": "Key contributor to DeepSeek AI's research, including development of DeepSeek-V2 and contributions to DeepSeek-V3. Developed architectures like Multi-head Latent Attention (MLA) and DeepSeekMoE to reduce inference costs. Focuses on representation learning, knowledge transfer, and trustworthy AI.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Yuting Yan": {
+        "Position": "Large Language Model Researcher",
+        "Background": "No specific educational background is provided. Currently works at DeepSeek AI.",
+        "Contribution": "Co-authored the DeepSeek-V3 Technical Report and DeepSeek-V2 paper, focusing on efficient large language model architectures, training, and inference techniques. Their work includes contributions to Mixture-of-Experts models and methods for improving model performance while reducing computing power.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Xinxia Shan": {
+        "Position": "Author at DeepSeek AI",
+        "Background": "No educational background or previous roles are specified in the provided document.",
+        "Contribution": "Co-author of the DeepSeek-V3 large language model, which utilizes Multi-head Latent Attention (MLA) and DeepSeekMoE architectures for efficient inference and cost-effective training. Contributed to the model's pre-training on 14.8 trillion tokens and its Supervised Fine-Tuning and Reinforcement Learning stages.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Mingming Li": {
+        "Position": "Contributing Author at DeepSeek AI",
+        "Background": "Holds a Ph.D. in Geological Sciences, with a background in geophysics and geodynamics. Prior to DeepSeek AI, worked as an Assistant Professor and Postdoc Research Associate focusing on geodynamic modeling and planetary evolution.",
+        "Contribution": "Contributed to the DeepSeek-V3 Technical Report, developing key architectural components such as Multi-head Latent Attention (MLA) and DeepSeekMoE for efficient inference and training. Also pioneered an auxiliary-loss-free strategy for load balancing and set a multi-token prediction training objective.",
+        "Category Tag": "Large Language Model Development (LLM Development)"
+    },
+    "Jin Chen": {
+        "Position": "Key Contributor, Research Scientist at DeepSeek AI",
+        "Background": "Ph.D. in Computational Geoscience, with prior experience at AstraZeneca, Apple, and other tech companies. Research background in medical image computing and AI.",
+        "Contribution": "Key contributor to the DeepSeek-V3 project, focusing on architecture, training, and optimization. His work also includes research in large multimodal generative models, vision-language interactions, and applications of AI in healthcare. Other work includes development of sampling methods for efficient machine learning and disentangling human error in medical imaging.",
+        "Category Tag": "Large Language Model Development (LLM Development), Vision-Language Models / Multimodal Research, Medical and Genomics Applications, Model Optimization and Architecture Design"
+    }
+}
